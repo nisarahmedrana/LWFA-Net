@@ -221,8 +221,8 @@ If you use this code or the LFA-Net architecture in your research, please cite:
 ```bibtex
 @article{lfanet2025,
   title   = {A Lightweight Fusion Attention Network for Breast Ultrasound Lesion Segmentation},
-  author  = {[Azeem Aslam, Nisar Ahmed, Asim Naveed]},
-  journal = {[Submitted in ESWA]},
+  author  = {[Azeem Aslam, Asim Naveed, Nisar Ahmed, Pekka Ruusuvuori]},
+  journal = {[Submitted in Elsevier - Array]},
   year    = {2026},
 }
 ```
